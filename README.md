@@ -19,7 +19,11 @@ This is a simple Java-based system to handle course registrations at a universit
 
 
 
-# Add commands to start the application here
+#### Add commands to start the application via command line
+
+      mvn spring-boot:run
+
+
 #### API Documentation:
 
 #### 1 Register Student for a Course:
